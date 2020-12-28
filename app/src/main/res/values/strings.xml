@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListViewAddCustomData</string>
+    <string name="enterTextHere">Enter Text Here</string>
+    <string name="save">Save</string>
+</resources>
